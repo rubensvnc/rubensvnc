@@ -26,4 +26,4 @@
 </p>
 
 
-[![Rubens's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rubensvnc&theme=radical)](https://github.com/rubensvnc) <br/>
+[![Rubens's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rubensvnc&theme=react)](https://github.com/rubensvnc) <br/>
