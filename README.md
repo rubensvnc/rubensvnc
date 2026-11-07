@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭  I'm currently working on My 2nd semester API project at FATEC — a Java/Spring Boot application built with my team (Datasquad), while deepening my knowledge in Database Administration and Modeling.<br>
+🔭  I'm currently working on My 3rd semester API project at FATEC — a FullStack Java+React application built with my team (Datasquad), while deepening my knowledge in Database Administration, Data Structures and Estatiscal Mathematics.<br>
 
 👯 I'm looking to collaborate on Backend projects involving Python, Java, or database-heavy systems — especially anything related to data processing, automation, or real-time applications.<br>
 
@@ -9,7 +9,7 @@
 
 💬 Ask me about Python scripting, MySQL, Firebase/NoSQL integrations, OOP design patterns, process automation, or coding challenges on LeetCode and Codewars.<br>
 
-⚡ Fun fact I speak 4 languages (Portuguese, English, Spanish, and a bit of Japanese 日本語) — and I'm probably solving a LeetCode problem right now instead of sleeping. 🧠
+⚡ Fun fact I speak 4 languages (Portuguese - Native, English - CEFR Advanced C1, Spanish - Basics, and a bit of Japanese 日本語) — and I like to solve competitive programming problems in LeetCode sometimes.
 
 
 ## 🌐 Socials:
