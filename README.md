@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭  I'm currently working on My 3rd semester API project at FATEC — a FullStack Java+React application built with my team (Datasquad), while deepening my knowledge in Database Administration, Data Structures and Estatiscal Mathematics.<br>
+🔭  I'm currently working on My 3rd semester API project at FATEC — a FullStack Java+React application built with my team (Datasquad), while deepening my knowledge in Database Administration, Data Structures and General Statistics.<br>
 
 👯 I'm looking to collaborate on Backend projects involving Python, Java, or database-heavy systems — especially anything related to data processing, automation, or real-time applications.<br>
 
